@@ -1,1 +1,1 @@
-export const API_PREFIX = "https://api.hchow.icu/api/private/v1"
+export const API_PREFIX = "https://cms.hchow.icu/api/private/v1"
